@@ -4,7 +4,7 @@ using namespace std;
 #define DEBUG_A
 
 #ifdef DEBUG_A
-#define a 10
+#define a 30
 #elif DEBUG_B
 #define a 100
 #else
